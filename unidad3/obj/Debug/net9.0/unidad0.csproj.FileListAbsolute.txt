@@ -1,0 +1,14 @@
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\bin\Debug\net9.0\unidad0.exe
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\bin\Debug\net9.0\unidad0.deps.json
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\bin\Debug\net9.0\unidad0.runtimeconfig.json
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\bin\Debug\net9.0\unidad0.dll
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\bin\Debug\net9.0\unidad0.pdb
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\unidad0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\unidad0.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\unidad0.AssemblyInfo.cs
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\unidad0.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\unidad0.dll
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\refint\unidad0.dll
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\unidad0.pdb
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\unidad0.genruntimeconfig.cache
+C:\Users\mario\Desktop\learningC#\C#Intermedio\unidad0\obj\Debug\net9.0\ref\unidad0.dll
